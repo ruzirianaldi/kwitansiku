@@ -1,0 +1,2 @@
+# kwitansiku
+Kwitansi adalah sebuah dokumen yang menjadi bukti bahwa transaksi pembayaran atau penerimaan uang telah dilakukan.  Biasanya, dokumen ini akan berisi informasi seperti identitas penjual dan pembeli, jumlah uang dalam nominal dan anga, serta materai yang dibubuhkan tanda tangan untuk memperkuat sisi legalitas.  Biasanya, dokumen ini ditanda tangani oleh penjual dan diterima oleh pembelinya. Atau dalam hal tertentu, kedua belah pihak juga memperkuat sisi legalitas.
